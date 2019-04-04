@@ -22,3 +22,6 @@ Above & to infinity and beyond:
 3. multiple levels with increased speed/complexity
 4. winner board that will updated based on score and host the top 5 scores (i know that this feels wild.....but will also create a sort function that will rearrange the order of scores based on points and recalibrate in the 
 "winners board");
+
+
+! (images/pacman.wireframe.jpg)
