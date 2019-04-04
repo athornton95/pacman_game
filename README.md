@@ -24,4 +24,4 @@ Above & to infinity and beyond:
 "winners board");
 
 
-! images/pacman.wireframe.jpg
+![wireframe](images/pacman.wireframe.jpg)
